@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\bin\Debug\KoganL3_test2.exe.config
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\bin\Debug\KoganL3_test2.exe
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\bin\Debug\KoganL3_test2.pdb
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.Form1.resources
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.Properties.Resources.resources
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.exe
+C:\Users\Admin\source\repos\KoganL3_test2\KoganL3_test2\obj\Debug\KoganL3_test2.pdb
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\bin\Debug\KoganL3_test2.exe.config
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\bin\Debug\KoganL3_test2.exe
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\bin\Debug\KoganL3_test2.pdb
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.csproj.AssemblyReference.cache
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.Form1.resources
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.Properties.Resources.resources
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.csproj.GenerateResource.cache
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.csproj.CoreCompileInputs.cache
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.exe
+D:\GIT\4-course\ТЯП\labs\Lab 3 test2\KoganL3_test2\obj\Debug\KoganL3_test2.pdb

@@ -1,0 +1,49 @@
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\bin\Debug\KoganL4_test1.exe.config
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\bin\Debug\KoganL4_test1.exe
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\bin\Debug\KoganL4_test1.pdb
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.Form1.resources
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.Properties.Resources.resources
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.exe
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.pdb
+C:\Users\Admin\source\repos\KoganL4_test1\KoganL4_test1\obj\Debug\KoganL4_test1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe.config
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.pdb
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Form1.resources
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Properties.Resources.resources
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.exe
+C:\Users\User\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.pdb
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe.config
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.pdb
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csprojAssemblyReference.cache
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Form1.resources
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Properties.Resources.resources
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.GenerateResource.cache
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.CoreCompileInputs.cache
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.exe
+M:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.pdb
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.exe
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.pdb
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe.config
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.pdb
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csprojAssemblyReference.cache
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Form1.resources
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Properties.Resources.resources
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.GenerateResource.cache
+D:\КОГАН\LAB5\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.CoreCompileInputs.cache
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe.config
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.exe
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\bin\Debug\KoganL4_test1.pdb
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csprojAssemblyReference.cache
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Form1.resources
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.Properties.Resources.resources
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.csproj.GenerateResource.cache
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.exe
+C:\Users\gukov\Desktop\KoganL4_test1 — копия (2)L5\KoganL4_test1\obj\Debug\KoganL4_test1.pdb

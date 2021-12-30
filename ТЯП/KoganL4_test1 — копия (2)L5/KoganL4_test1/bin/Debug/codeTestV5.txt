@@ -1,0 +1,5 @@
+While N <= 50 Do
+Begin
+S := S + N;
+N := N + 1;
+End;

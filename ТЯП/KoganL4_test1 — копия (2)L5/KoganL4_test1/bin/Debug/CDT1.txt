@@ -1,0 +1,5 @@
+while N <= 50 do
+begin
+S := S + N;
+N := N + 1;
+end;
